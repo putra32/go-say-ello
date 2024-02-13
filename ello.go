@@ -1,5 +1,5 @@
 package belajargolangmodules
 
 func SayEllo() string {
-	return "ello"
+	return "ello world"
 }
